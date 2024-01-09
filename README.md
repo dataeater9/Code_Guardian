@@ -1,5 +1,3 @@
-# Code_Guardian
-
 ## Goal
 
 Code Guardian: Ethical hacking platform to learn and practice with tools like Wireshark, John The Ripper, etc.
@@ -20,5 +18,3 @@ Code Guardian: Ethical hacking platform to learn and practice with tools like Wi
 - Report issues
 - Implement features
 - Improve documentation
-
- 
